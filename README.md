@@ -1,4 +1,3 @@
-# EStatística Básica
+# Estatística Básica
 
-
-$\gamma$
+ 
