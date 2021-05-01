@@ -3,5 +3,4 @@ Repositório destinado a conteúdos relacionados a estatística Básica.
  
 
 *Gerando variáveis aleatórias:
- $`\sqrt{2}`$.
- 
+<pre xml:lang="latex">\sqrt{2}</pre>
