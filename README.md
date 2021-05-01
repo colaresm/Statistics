@@ -3,4 +3,5 @@ Repositório destinado a conteúdos relacionados a estatística Básica.
  
 
 *Gerando variáveis aleatórias:
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+Esse trabalho buscar gerar uma distribuição uniforme entre [0,1] utuliazando o método congruencial misto, e partir dessa V.A gera-se outras distribuições (exponencial e gaussiana) por meio da FDA inversa.
+ 
