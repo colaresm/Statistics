@@ -3,4 +3,4 @@ Repositório destinado a conteúdos relacionados a estatística Básica.
  
 
 *Gerando variáveis aleatórias:
-<pre xml:lang="latex">\sqrt{2}</pre>
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
